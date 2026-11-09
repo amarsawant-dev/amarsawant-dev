@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Amar Balaji Sawant 👋
 
-<!--
-**amarsawant-dev/amarsawant-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Java Full Stack Dveloper | Web Developer 
 
-Here are some ideas to get you started:
+🎓 BCS Graduate – SPPU (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills:
+- C, C++, Java, Python
+- HTML, CSS
+- MySQL, MongoDB
+- Data Structures & Algorithms
+
+🚀 Projects:
+- Farmers Crop Selling Portal
+- Java Chat Application
+- Phishing Website Detection
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/amar-sawant-20007a328/
+
+🌱 Currently learning Java Full Stack Development.
